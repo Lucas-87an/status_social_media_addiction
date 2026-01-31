@@ -4,6 +4,11 @@ Projeto de análise de dados que demonstra o status da análise de vício em mí
 Este projeto consiste em analisar o status de vício em mídias sociais dos alunos nas redes sociais e os resultados relacionados
 em suas vidas. Abrange vários países e níveis acadêmicos, com foco em dimensões-chave como intensidade de uso, preferências de plataforma e dinâmica de relacionamentos.
 
+# Dashboard
+<p align="center">
+  <img src="assets/dashboard_overview.png" width="800">
+</p>
+
 # Ferramentas
 Para a execução dessa análise, foram utilizadas algumas ferramentas, tais quais:
 
